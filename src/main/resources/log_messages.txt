@@ -1,0 +1,100 @@
+INFO: Coffee levels low, productivity may be affected.
+WARNING: Keyboard not found. Press F1 to continue.
+ERROR: System halted. Press Ctrl+Alt+Del to commence self-destruction.
+INFO: Unplugging will not solve your problems.
+WARNING: Hard drive is feeling a bit fragmented today.
+ERROR: 404 – Motivation not found.
+INFO: The cloud is just someone else's computer.
+WARNING: You have moved the mouse. Windows must be restarted for the change to take effect.
+ERROR: An unknown error has occurred. Please try something else.
+INFO: There is no place like 127.0.0.1.
+WARNING: Keyboard not detected. Press any key to continue.
+ERROR: Unspecified error. Something went wrong, somewhere, somehow.
+INFO: Network cable unplugged. Maybe it's time for a break.
+WARNING: Disk space is low. Time to clean up those cat videos.
+ERROR: Virus detected. Too late, it’s already spreading memes.
+INFO: Backups are like insurance. You need them when you least expect it.
+WARNING: Printer out of ink. Again.
+ERROR: Access denied. You do not have the correct attitude.
+INFO: Operation completed successfully. No one is more surprised than us.
+WARNING: System running low on patience.
+ERROR: Blue Screen of Death imminent. Say your goodbyes.
+INFO: Windows has detected that you moved your mouse.
+WARNING: CPU overheating. Please stop playing solitaire.
+ERROR: File not found. It’s probably hiding under the couch.
+INFO: Data successfully corrupted.
+WARNING: Memory leak detected. Buy more RAM to fix the flood.
+ERROR: Cannot find the 'Any' key.
+INFO: Error-free day detected. Must be a glitch.
+WARNING: Caps Lock is on. Stop shouting at your computer.
+ERROR: Keyboard error. Press F1 to continue without one.
+INFO: New hardware detected. Please install more drivers.
+WARNING: Your computer clock is wrong. We blame daylight saving time.
+ERROR: An error occurred while displaying this error message.
+INFO: System uptime: Too long. Rebooting now.
+WARNING: Cat on keyboard. Input may be erratic.
+ERROR: Operating system not found. Where did it go?
+INFO: Spellcheck complete. Your grammar is still terrible.
+WARNING: Infinite loop detected. Prepare for an endless journey.
+ERROR: Division by zero. The universe may implode.
+INFO: Your computer has been up for: Too long. It needs a nap.
+WARNING: Backup your data. Or don't. See if we care.
+ERROR: Catastrophic failure. But don’t worry, we got this.
+INFO: You’ve got mail! Probably spam.
+WARNING: Unstable voltage detected. Hold onto your circuits.
+ERROR: Cannot format C:. That's just not a good idea.
+INFO: Temporary files deleted. Your secrets are safe for now.
+WARNING: System overload. Take a break and have a cookie.
+ERROR: Unexpected error. That was unexpected.
+INFO: Network connection lost. Time to read a book.
+WARNING: User error detected. Replace user and press any key to continue.
+ERROR: Mouse not found. Is it under the desk?
+INFO: Battery level critical. It's nap time.
+WARNING: Software update required. Proceed at your own risk.
+ERROR: Could not determine what went wrong. Try again later.
+INFO: Your password will expire soon. Change it to something you’ll forget immediately.
+WARNING: Excessive coffee consumption detected. Consider decaf.
+ERROR: Not enough virtual memory. Buy more reality.
+INFO: Your computer is now self-aware. Be afraid.
+WARNING: Unsaved work detected. You like living dangerously, huh?
+ERROR: Page fault in non-paged area. That sounds serious.
+INFO: Disk cleanup completed. Your mess is our mission.
+WARNING: Deprecated code detected. Your software is ancient.
+ERROR: General protection fault. Now what?
+INFO: Time synchronization complete. You're now back in the right century.
+WARNING: Software installation failed. Try turning it off and on again.
+ERROR: Resource temporarily unavailable. Like, forever.
+INFO: You have successfully wasted 2 hours on social media.
+WARNING: High temperature detected. Your computer is on fire. Literally.
+ERROR: Command not recognized. Speak human.
+INFO: Your system is up-to-date. For now.
+WARNING: Inconsistent data detected. Reality may be corrupted.
+ERROR: Null pointer exception. Where did it go?
+INFO: User authentication failed. Who are you again?
+WARNING: Unauthorized access detected. Prepare for lockdown.
+ERROR: Device driver not found. Maybe it took a wrong turn.
+INFO: Network settings changed. Did you mean to do that?
+WARNING: Outdated antivirus software detected. Good luck.
+ERROR: Unknown device detected. It’s probably an alien.
+INFO: Software update successful. Hopefully.
+WARNING: Low bandwidth detected. Your internet is on vacation.
+ERROR: System resources exceeded. Upgrade your hamster.
+INFO: Background process completed. You didn’t notice, did you?
+WARNING: Printer on strike. Feed it more paper.
+ERROR: Invalid operation. What were you thinking?
+INFO: User profile loaded. Welcome back, stranger.
+WARNING: Connection timeout. The server is taking a nap.
+ERROR: Fatal exception. Prepare for impact.
+INFO: Maintenance mode activated. Please be patient.
+WARNING: Deprecated function called. Your code needs a makeover.
+ERROR: Application crashed. We hope you saved your work.
+INFO: Settings applied. We’re as surprised as you are.
+WARNING: Disk quota exceeded. Stop hoarding files.
+ERROR: Permission denied. Who do you think you are?
+INFO: Cache cleared. Feeling lighter already.
+WARNING: Low memory. Consider getting a brain upgrade.
+ERROR: Out of disk space. Delete some selfies.
+INFO: Performance optimization complete. Go ahead, notice the difference.
+WARNING: Script taking too long. Give it a nudge.
+ERROR: System malfunction. Blame it on the gremlins.
+INFO: Logging off. Don’t cry, we’ll be back.
